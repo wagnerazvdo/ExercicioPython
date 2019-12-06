@@ -1,0 +1,2 @@
+# ExercicioPython
+Exercícios em sala.
